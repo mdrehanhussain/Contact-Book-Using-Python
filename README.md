@@ -1,5 +1,12 @@
 # Contact Book
-You Have To Creat Folder Named "Contacts" to store data in it<br>
+Screenshots :
+
+contact details: <br>
+<img src="Screenshots/Screenshot1.png"><br>
+adding contact: <br>
+<img src="Screenshots/Screenshot2.png"><br>
+deleting contact: <br>
+<img src="Screenshots/Screenshot3.png"><br>
 This Project Will Create File The file name will be the contact name<br>
 The Data Will Be Stored Like This:
 "
